@@ -14,4 +14,4 @@ Applied to image dataset
 in the ``demo.py`` script, this algorithm produces a video with frames that
 look like:
 
-.. image:: https://github.com/tapassd94/video_background_remove/blob/4ee5bd4a4bed675cc075e30a59e67e0282dacbd6/demo_result.png
+.. image:: https://raw.githubusercontent.com/tapassd94/video_background_remove/master/demo_result.png
